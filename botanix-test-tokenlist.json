@@ -19,6 +19,14 @@
       "logoURI": "https://faucet.botanixlabs.dev/favicon.ico"
     },
     {
+      "name": "Jeff Token",
+      "symbol": "JEFF",
+      "address": "0x09c693C904b5Fb6b9dC883D19fc9F8826dD63E11",
+      "chainId": 3636,
+      "decimals": 2,
+      "logoURI": "https://github.com/jeffgeudens/dex-tokens/blob/main/JEFF-token.png?raw=true"
+    },
+    {
       "name": "GROC Token",
       "symbol": "GROC",
       "address": "0xf045f319cacb68b77baba7a79eaa753521a51c14",
@@ -33,14 +41,6 @@
       "chainId": 3636,
       "decimals": 2,
       "logoURI": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-yellow-pizza-illustration-png-image_4634672.jpg"
-    },
-    {
-      "name": "Jeff Token",
-      "symbol": "JEFF",
-      "address": "0x09c693C904b5Fb6b9dC883D19fc9F8826dD63E11",
-      "chainId": 3636,
-      "decimals": 2,
-      "logoURI": "https://github.com/jeffgeudens/dex-tokens/blob/main/JEFF-token.png?raw=true"
     },
     {
       "name": "DOGE Token",
