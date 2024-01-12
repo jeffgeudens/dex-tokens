@@ -23,7 +23,7 @@
       "symbol": "GROC",
       "address": "0xf045f319cacb68b77baba7a79eaa753521a51c14",
       "chainId": 3636,
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://i.pinimg.com/736x/e9/d0/36/e9d036a5d5e1e412fe62226930199ead.jpg"
     },
     {
@@ -31,7 +31,7 @@
       "symbol": "PIZZA",
       "address": "0x9005DC6b9a67993Ebf0939f089aC4986D68d557b",
       "chainId": 3636,
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-yellow-pizza-illustration-png-image_4634672.jpg"
     },
     {
@@ -39,7 +39,7 @@
       "symbol": "JEFF",
       "address": "0x09c693C904b5Fb6b9dC883D19fc9F8826dD63E11",
       "chainId": 3636,
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://github.com/jeffgeudens/dex-tokens/blob/main/JEFF-token.png?raw=true"
     },
     {
@@ -47,7 +47,7 @@
       "symbol": "DOGE",
       "address": "0xF48892CAbE1ad2935A07b4d12D3e54F3e62dB12f",
       "chainId": 3636,
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
     },
     {
@@ -55,7 +55,7 @@
       "symbol": "PEPE",
       "address": "0xC2b5F3CAf6D04a6E29859aAB57275C01dc349Ba6",
       "chainId": 3636,
-      "decimals": 18,
+      "decimals": 2,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24478.png"
     }
   ]
