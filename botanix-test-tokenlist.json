@@ -11,14 +11,6 @@
   "keywords": ["BTC", "default"],
   "tokens": [
     {
-      "name": "WBTC Token",
-      "symbol": "WBTC",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
-      "chainId": 3636,
-      "decimals": 18,
-      "logoURI": "https://faucet.botanixlabs.dev/favicon.ico"
-    },
-    {
       "name": "DOGE Token",
       "symbol": "DOGE",
       "address": "0xF48892CAbE1ad2935A07b4d12D3e54F3e62dB12f",
