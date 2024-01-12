@@ -41,7 +41,8 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
-    },{
+    },
+    {
       "name": "PEPE Token",
       "symbol": "PEPE",
       "address": "0xC2b5F3CAf6D04a6E29859aAB57275C01dc349Ba6",
