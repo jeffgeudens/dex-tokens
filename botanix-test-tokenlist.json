@@ -17,7 +17,7 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24478.png"
-    }
+    },
     {
       "name": "DOGE Token",
       "symbol": "DOGE",
@@ -25,7 +25,7 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
-    }
+    },
     {
       "name": "GROC Token",
       "symbol": "GROC",
@@ -33,7 +33,7 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://static.wikia.nocookie.net/bloodbrothersgame/images/f/f2/Pumpkin_Coin.png/revision/latest?cb=20141025191513"
-    }
+    },
     {
       "name": "PIZZA Token",
       "symbol": "PIZZA",
@@ -41,7 +41,7 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-yellow-pizza-illustration-png-image_4634672.jpg"
-    }
+    },
     {
       "name": "WBTC Token",
       "symbol": "WBTC",
