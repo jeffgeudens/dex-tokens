@@ -17,6 +17,14 @@
       "chainId": 3636,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/24478.png"
+    },
+    {
+      "name": "DOGE Token",
+      "symbol": "DOGE",
+      "address": "0xF48892CAbE1ad2935A07b4d12D3e54F3e62dB12f",
+      "chainId": 3636,
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png"
     }
   ]
 }
