@@ -11,6 +11,30 @@
   "keywords": ["BTC", "default"],
   "tokens": [
     {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 3636,
+      "decimals": 18,
+      "logoURI": "https://faucet.botanixlabs.dev/favicon.ico"
+    },
+    {
+      "name": "GROC Token",
+      "symbol": "GROC",
+      "address": "0xf045f319cacb68b77baba7a79eaa753521a51c14",
+      "chainId": 3636,
+      "decimals": 18,
+      "logoURI": "https://static.wikia.nocookie.net/bloodbrothersgame/images/f/f2/Pumpkin_Coin.png/revision/latest?cb=20141025191513"
+    },
+    {
+      "name": "PIZZA Token",
+      "symbol": "PIZZA",
+      "address": "0x9005DC6b9a67993Ebf0939f089aC4986D68d557b",
+      "chainId": 3636,
+      "decimals": 18,
+      "logoURI": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-cartoon-yellow-pizza-illustration-png-image_4634672.jpg"
+    },
+    {
       "name": "DOGE Token",
       "symbol": "DOGE",
       "address": "0xF48892CAbE1ad2935A07b4d12D3e54F3e62dB12f",
